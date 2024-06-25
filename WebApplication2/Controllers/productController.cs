@@ -11,7 +11,7 @@ namespace WebApplication2.Controllers
             pr.id = 1;
             pr.name = "Test";
             pr.price = 100;
-            pr.number = 123;
+            pr.number = 201;
             return View(pr);
         }
 
